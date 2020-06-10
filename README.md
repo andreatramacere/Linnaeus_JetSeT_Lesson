@@ -23,6 +23,5 @@ and follow the link for installation <https://jetset.readthedocs.io/en/1.1.2/ins
 
 and then read the user guide: <https://jetset.readthedocs.io/en/1.1.2/user_guide/user_guide.html>
 
-##There
-
+## News
 keep updated on the FB page <https://www.facebook.com/jetsetastro/>
