@@ -1,4 +1,4 @@
-# UniGe HighEnergy Astrophysics Hands-on Session
+# Linnaeus University Hands-on Session
 
 ## git repo with notebooks 
 
