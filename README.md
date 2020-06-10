@@ -24,7 +24,7 @@ and follow the link for installation <https://jetset.readthedocs.io/en/1.1.2/ins
 and then read the user guide: <https://jetset.readthedocs.io/en/1.1.2/user_guide/user_guide.html>
 
 ##  code installation for version 1.1.2b 
-** Installation of v 1.1.2.b is not mandatory, anyhow there are a couple of bugfix **
+**Installation of v 1.1.2.b is not mandatory, anyhow there are a couple of bugfix**
 - download <https://github.com/andreatramacere/jetset/archive/1.1.2b.tar.gz>
 - follow the instruction to install from source in <https://jetset.readthedocs.io/en/1.1.2/install.html>
 
